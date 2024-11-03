@@ -68,6 +68,10 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 
 - [Insidr AI Directory](https://www.insidr.ai/ai-tools/) - AI Tools Directory
 
+## L
+
+- [Listir.ai](https://listir.ai) - Best AI Tools List 3000+ AI Tools
+
 ## N
 
 - [NeonRev](https://www.neonrev.com/) - One of the largest and best AI Tools Directory 
